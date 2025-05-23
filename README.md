@@ -44,7 +44,9 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ### Running the Notebook
 
 1. Clone the repository:
-   ```bash
+   ```
+   https://github.com/itistamtran/Toxic_Comment_Classification.git
+   ```
 
 2. Launch the notebook:
    ```
