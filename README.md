@@ -34,11 +34,11 @@ The dataset is sourced from the [Kaggle Toxic Comment Classification Challenge](
 
 ### Authors: 
 
-Tam Tran, Viet Vi
+Tam Tran, Viet Tran
 
 ### Report Contributors: 
 
-Tam Tran, Viet Vi, Tram Tran, An Nguyen, Thu Nguyen
+Tam Tran, Viet Tran, Tram Tran, An Nguyen, Thu Nguyen
 
 ### Contributing
 
