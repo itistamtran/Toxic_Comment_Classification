@@ -52,7 +52,13 @@ Contributions are welcome! Please open an issue or submit a pull request.
    ```
    jupyter notebook Toxic_Comment_Classification.ipynb
    ```
+3. Dataset Instructions
    
+   The dataset is stored in zipped CSV format under the `dataset/` folder.  
+   To unzip and load the data, follow the steps in [`load_dataset.md`](load_dataset.md).
+
+   > If you're running the notebook locally, **skip the Google Drive loading cell** and use the local dataset instructions instead.
+
 ### Prerequisites
 
 Ensure you have Python 3.7+ installed. Then install dependencies:
