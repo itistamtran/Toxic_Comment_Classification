@@ -60,7 +60,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
    - Download `train.csv.zip`, `test.csv.zip`, `test_labels.csv.zip`, and `sample_submission.csv.zip`.
    - Place them into a folder called `dataset/` inside this project.
    - Then follow the steps in [`load_dataset.md`](load_dataset.md) to unzip and load the data.
-   - To unzip and load the data, follow the steps in [`load_dataset.md`](load_dataset.md).
    - If you're running the notebook locally, **skip the Google Drive loading cell** and use the local dataset instructions instead.
 
 ### Prerequisites
