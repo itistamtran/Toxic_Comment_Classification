@@ -1,6 +1,6 @@
 # How to Load the Dataset
 
-This project includes zipped CSV files under the `dataset/` folder. Follow these steps to unzip and load the data:
+After downloading the zipped CSV files from [Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data) and saving them under the `dataset/` folder, follow these steps to unzip and load the data:
 
 ## Step 1: Unzip the files
 
