@@ -53,10 +53,15 @@ Contributions are welcome! Please open an issue or submit a pull request.
    jupyter notebook Toxic_Comment_Classification.ipynb
    ```
 3. Dataset Instructions
-   
-   The dataset is stored in zipped CSV format under the `dataset/` folder.  
-   To unzip and load the data, follow the steps in [`load_dataset.md`](load_dataset.md).
-   If you're running the notebook locally, **skip the Google Drive loading cell** and use the local dataset instructions instead.
+   Due to GitHub file size limits, the full dataset is **not included** in this repository.
+   To use this project:
+
+   - Go to the [Kaggle Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data).
+   - Download `train.csv.zip`, `test.csv.zip`, `test_labels.csv.zip`, and `sample_submission.csv.zip`.
+   - Place them into a folder called `dataset/` inside this project.
+   - Then follow the steps in [`load_dataset.md`](load_dataset.md) to unzip and load the data.
+   - To unzip and load the data, follow the steps in [`load_dataset.md`](load_dataset.md).
+   - If you're running the notebook locally, **skip the Google Drive loading cell** and use the local dataset instructions instead.
 
 ### Prerequisites
 
