@@ -32,8 +32,13 @@ The dataset is sourced from the [Kaggle Toxic Comment Classification Challenge](
 - NLTK / re for text processing
 - Jupyter Notebook
 
-### Authors: Tam Tran, Viet Vi
-### Report Contributors: Tam Tran, Viet Vi, Tram Tran, An Nguyen, Thu Nguyen
+### Authors: 
+
+Tam Tran, Viet Vi
+
+### Report Contributors: 
+
+Tam Tran, Viet Vi, Tram Tran, An Nguyen, Thu Nguyen
 
 ### Contributing
 
